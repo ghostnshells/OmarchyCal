@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "ghostnshells.calendar-popup",
+  "name": "Calendar Popup",
+  "version": "1.0.0",
+  "author": "ghostnshells",
+  "description": "Theme-aware calendar popup with read-only Google Calendar ICS feeds, agenda, day navigation, and event-type colors",
+  "kinds": ["panel"],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "Panel.qml"
+  }
+}
