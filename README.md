@@ -3,6 +3,8 @@
 A theme-aware calendar panel for the Omarchy shell. It opens as a centered
 Quickshell popup and combines a month grid with a selected-day agenda.
 
+https://github.com/user-attachments/assets/e854540a-5f78-4210-a73b-d1c0d7d3606c
+
 ## Features
 
 - Omarchy theme-aware colors, typography, borders, and popup styling
